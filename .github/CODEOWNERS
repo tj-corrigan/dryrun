@@ -1,0 +1,8 @@
+# This is a comment.
+# Each line is a file pattern followed by one or more owners.
+
+*                     @tj-corrigan
+/apis/poi/*           @tj-corrigan
+/apis/trips/*         @tj-corrigan
+/apis/user-java/*     @tj-corrigan
+/apis/userprofile/*   @tj-corrigan
